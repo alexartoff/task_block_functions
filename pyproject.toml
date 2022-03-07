@@ -9,6 +9,7 @@ packages = [{include = "block_func"},]
 t1-greet = "block_func.scripts.task1_greet:main"
 t2-get-color = "block_func.scripts.task2_get_colors:main"
 t3-updated = "block_func.scripts.task3_updated:main"
+t4-call-twice = "block_func.scripts.task4_call_twice:main"
 
 [tool.poetry.dependencies]
 python = "^3.8"

@@ -2,4 +2,5 @@
 1. task - "greet" (`poetry run t1-greet`)  
 2. task - "get colors" (`poetry run t2-get-color`)  
 3. task - "updated" (`poetry run t3-updated`)  
-4. task . . 
+4. task - "call twice" (`poetry run t4-call-twice`)  
+5. task . .   
