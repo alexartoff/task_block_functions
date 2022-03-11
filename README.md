@@ -6,4 +6,5 @@
 5. task - "filter -> map" (`poetry run t5-filter-map`)  
 6. task - "map&filter&reduce" (`poetry run t6-mfr`)  
 7. task - "closure: partial_apply & flip" (`poetry run t7-closure`)  
-8. task . . 
+8. task - "lambda: make module" (`poetry run t8-lambda`)  
+9. task . . 
