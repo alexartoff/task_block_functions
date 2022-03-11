@@ -5,4 +5,5 @@
 4. task - "call twice" (`poetry run t4-call-twice`)  
 5. task - "filter -> map" (`poetry run t5-filter-map`)  
 6. task - "map&filter&reduce" (`poetry run t6-mfr`)  
-7. task . . 
+7. task - "closure: partial_apply & flip" (`poetry run t7-closure`)  
+8. task . . 

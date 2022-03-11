@@ -12,6 +12,7 @@ t3-updated = "block_func.scripts.task3_updated:main"
 t4-call-twice = "block_func.scripts.task4_call_twice:main"
 t5-filter-map = "block_func.scripts.task5_filter_map:main"
 t6-mfr = "block_func.scripts.task6_mfr:main"
+t7-closure = "block_func.scripts.task7_closure:main"
 
 [tool.poetry.dependencies]
 python = "^3.8"
