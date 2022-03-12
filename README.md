@@ -7,4 +7,5 @@
 6. task - "map&filter&reduce" (`poetry run t6-mfr`)  
 7. task - "closure: partial_apply & flip" (`poetry run t7-closure`)  
 8. task - "lambda: make module" (`poetry run t8-lambda`)  
-9. task . . 
+9. task - "decorators: memoized" (`poetry run t9-decor`)  
+10. task . . 
