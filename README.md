@@ -8,4 +8,5 @@
 7. task - "closure: partial_apply & flip" (`poetry run t7-closure`)  
 8. task - "lambda: make module" (`poetry run t8-lambda`)  
 9. task - "decorators: memoized" (`poetry run t9-decor`)  
-10. task . . 
+10. task - "more decorators: memoized with param" (`poetry run t10-mdecor`)  
+11. task . . 
