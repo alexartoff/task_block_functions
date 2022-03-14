@@ -16,6 +16,7 @@ t7-closure = "block_func.scripts.task7_closure:main"
 t8-lambda = "block_func.scripts.task8_lambda:main"
 t9-decor = "block_func.scripts.task9_decorators:main"
 t10-mdecor = "block_func.scripts.task10_more_decorators:main"
+t11-recurs = "block_func.scripts.task11_recursion:main"
 
 [tool.poetry.dependencies]
 python = "^3.8"
