@@ -10,4 +10,7 @@
 9. task - "decorators: memoized" (`poetry run t9-decor`)  
 10. task - "more decorators: memoized with param" (`poetry run t10-mdecor`)  
 11. task - "recursion (implicit)" (`poetry run t11-recurs`)  
-. . 
+. . .  
+### additional tasks  
+task - "get man counted by year" (`tf-count-by-year`)  
+task - . . 
