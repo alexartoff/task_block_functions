@@ -12,5 +12,6 @@
 11. task - "recursion (implicit)" (`poetry run t11-recurs`)  
 . . .  
 ### additional tasks  
-task - "get man counted by year" (`tf-count-by-year`)  
+task - "get man counted by year" (`poetry run tf-count-by-year`)  
+task - "compose func >>> f(g(x))" (`poetry run tf-compose`)  
 task - . . 
