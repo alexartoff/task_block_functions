@@ -19,6 +19,7 @@ t10-mdecor = "block_func.scripts.task10_more_decorators:main"
 t11-recurs = "block_func.scripts.task11_recursion:main"
 tf-count-by-year = "block_func.scripts.task_counted_by_year:main"
 tf-compose = "block_func.scripts.task_compose:main"
+tf-nrzi = "block_func.scripts.task_nrzi_decode:main"
 
 [tool.poetry.dependencies]
 python = "^3.8"
