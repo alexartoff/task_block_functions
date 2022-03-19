@@ -16,4 +16,5 @@ task - "get man counted by year" (`poetry run tf-count-by-year`)
 task - "compose func >>> f(g(x))" (`poetry run tf-compose`)  
 task - "NRZI decode  _|‾|__  -> 0110" (`poetry run tf-nrzi`)  
 task - "find index nearest" (`poetry run tf-fin`)  
+task - "rgb2hex & hex2rgb" (`poetry run tf-color`)  
 task - . . 
