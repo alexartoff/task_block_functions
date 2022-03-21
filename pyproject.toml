@@ -22,6 +22,7 @@ tf-compose = "block_func.scripts.task_compose:main"
 tf-nrzi = "block_func.scripts.task_nrzi_decode:main"
 tf-fin = "block_func.scripts.task_find_index_nearest:main"
 tf-color = "block_func.scripts.task_color_inverse:main"
+tf-ip4 = "block_func.scripts.task_ip4_convert:main"
 
 [tool.poetry.dependencies]
 python = "^3.8"
