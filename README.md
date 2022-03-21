@@ -18,4 +18,5 @@ task - "NRZI decode  _|‾|__  -> 0110" (`poetry run tf-nrzi`)
 task - "find index nearest" (`poetry run tf-fin`)  
 task - "rgb2hex & hex2rgb" (`poetry run tf-color`)  
 task - "ip2int & int2ip" (`poetry run tf-ip4`)  
+task - "filter anagrams" (`poetry run tf-anagram`)  
 task - . . 
