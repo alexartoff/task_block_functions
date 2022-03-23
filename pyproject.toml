@@ -24,6 +24,7 @@ tf-fin = "block_func.scripts.task_find_index_nearest:main"
 tf-color = "block_func.scripts.task_color_inverse:main"
 tf-ip4 = "block_func.scripts.task_ip4_convert:main"
 tf-anagram = "block_func.scripts.task_filter_anagram:main"
+tf-histo = "block_func.scripts.task_histo:main"
 
 [tool.poetry.dependencies]
 python = "^3.8"
