@@ -26,6 +26,8 @@ tf-ip4 = "block_func.scripts.task_ip4_convert:main"
 tf-anagram = "block_func.scripts.task_filter_anagram:main"
 tf-histo = "block_func.scripts.task_histo:main"
 tf-parity-filter = "block_func.scripts.task_parity_filter:main"
+tf-ipv6 = "block_func.scripts.task_valid_ipv6:main"
+tf-enlarge = "block_func.scripts.task_enlarge:main"
 
 [tool.poetry.dependencies]
 python = "^3.8"

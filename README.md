@@ -14,11 +14,13 @@
 ### additional tasks  
 task - "get man counted by year" (`poetry run tf-count-by-year`)  
 task - "compose func >>> f(g(x))" (`poetry run tf-compose`)  
-task - "NRZI decode  _|‾|__  -> 0110" (`poetry run tf-nrzi`)  
+task - "NRZI decode  _!‾!_  -> 0110" (`poetry run tf-nrzi`)  
 task - "find index nearest" (`poetry run tf-fin`)  
 task - "rgb2hex & hex2rgb" (`poetry run tf-color`)  
 task - "ip2int & int2ip" (`poetry run tf-ip4`)  
 task - "filter anagrams" (`poetry run tf-anagram`)  
 task - "histogram" (`poetry run tf-histo`)  
 task - "same parity filter" (`poetry run tf-parity-filter`)  
-task - . . 
+task - "is valid ipv6?" (`poetry run tf-ipv6`) NOT SOLVED  
+task - "enlarge (via func)" (`poetry run tf-enlarge`) NOT SOLVED  
+. . 
